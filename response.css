@@ -1,0 +1,84 @@
+@media(max-width:1290px){
+.f{
+		width: 25%;
+	}
+	.f input{
+		width: 75%;
+	}
+	
+}
+/*from 1240 max*/
+@media(max-width:1240px){
+	.f{
+		width: 25%;
+	}
+	.f input{
+		width: 74%;
+	}
+
+}
+/* from 1190 max */
+@media(max-width:1190px){
+	.f{
+		width: 25%;
+	}
+	.f input{
+		width: 72%;
+	}
+}
+/*from 1109 max*/
+@media(max-width:1109px){
+	.f{
+		width: 25%;
+	}
+	.f input{
+		width: 69%;
+	}
+}
+/*from 997 max*/
+@media(max-width:997px){
+	.f{
+		width: 25%;
+	}
+	.f input{
+		width: 66%;
+	}
+}
+/*from 242 max*/
+@media(max-width:242px){
+	.f{
+		width: 25%;
+	}
+	.f input{
+		width: 74%;
+	}
+}
+
+/*MAKING THE CONTENT RESPONSIVE*/
+@media(max-width:1180px){
+	section{
+    width: 100%;
+    margin: 0 auto;
+    
+}
+section .cont{
+	width: 90%;
+}
+section .boxfree{
+	 padding: 10px;
+    margin: 20px;
+}
+}
+@media(max-width:1085px){
+	section{
+    width: 100%;
+    margin: 0 auto;
+}
+section .cont{
+	width: 95%;
+}
+section .boxfree{
+	 padding: 10px;
+    margin: 15px;
+}
+}
